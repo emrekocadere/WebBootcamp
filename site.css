@@ -1,0 +1,21 @@
+p{
+    font-family:sans-serif ;
+    text-align:center;
+    color:rgb(30, 145, 30)
+}
+a{
+    color:rgb(255, 31, 23);
+    text-decoration:none;
+}
+#deneme
+{
+    font-family:'Bebas Neue', cursive;
+    background-color: aqua;
+    font-weight:bold ; 
+    font-size: 40px;
+}
+
+a:hover{
+    color:rgb(135, 69, 243);
+    text-decoration:underline;
+}
