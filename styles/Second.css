@@ -1,0 +1,15 @@
+
+h1{
+    font-family: 'Sigmar One', cursive;
+    font-size: x-large;
+    color:rgba(0, 151, 0, 0.541);
+}
+
+li{
+  
+    font-family: 'Sigmar One', cursive;
+    color:rgb(30, 145, 30);
+    background-color: rgba(0, 151, 0, 0.205);
+    list-style: none;
+    margin-right: 91%;
+}

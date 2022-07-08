@@ -1,0 +1,32 @@
+img{
+    width:250px;
+    height:200px ;
+    border-radius:100px ;
+    background-color: rgb(30, 145, 30);
+    
+}
+
+#link
+{
+    font-family: 'Sigmar One', cursive;
+    font-size: larger;
+}
+#deneme
+{
+    color:rgb(224, 181, 61);
+    
+    background-color: rgb(30, 145, 30);
+    font-weight:bold ; 
+    font-size: 40px;
+    margin: 0px 200px 0px; 
+}
+
+a:hover{
+    color:rgb(135, 69, 243);
+    text-decoration:underline;
+}
+
+body
+{
+    text-align: center;
+}
